@@ -26,5 +26,5 @@ This project was created to learn basic Unity mechanics such as:
 ## Status
 Prototype (single level, early version)
 
-## Screenshot
-![Gameplay](<img width="1078" height="471" alt="Earn-Points-Gameplay" src="https://github.com/user-attachments/assets/82d28162-37c0-4271-979c-53c9dc37898c" />)
+## Developer
+Talha YAĞDIRAN
